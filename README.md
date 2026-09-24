@@ -46,6 +46,6 @@ Open source: contributing to [frappe/lms](https://github.com/frappe/lms) and [fr
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=celaltokmak61&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=A78BFA&text_color=c9d1d9&title_color=A78BFA" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celaltokmak61&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide_title=true&text_color=c9d1d9&title_color=A78BFA" alt="Top languages" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=celaltokmak61&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=A78BFA&text_color=c9d1d9&title_color=A78BFA" alt="GitHub stats" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=celaltokmak61&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide_title=true&text_color=c9d1d9&title_color=A78BFA" alt="Top languages" />
 </div>
